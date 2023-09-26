@@ -1,0 +1,17 @@
+:root{
+    --color-primary: #713ABE;
+    --blackbg: #272829;
+    --whitebg: #F5F5F5;
+    --input:#394867;
+}
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+    
+}
+body{
+    background-color:black;
+}
+
